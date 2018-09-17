@@ -5,4 +5,5 @@ pull リモートリポジトリの内容を取得する
 
 branchのtutorial
 並行作業のtutorial
+並行作業のtutorial-2
 
